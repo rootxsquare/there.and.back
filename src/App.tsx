@@ -13,9 +13,9 @@ function App() {
       <header className="absolute top-4 left-4 z-10 p-4 polaroid rounded-md">
         <h1 className="text-4xl font-handwriting font-bold text-stone-800 drop-shadow-sm flex items-center gap-2">
           <span className="-rotate-3 inline-block">✈️</span> 
-          Travel Scrapbook
+          There and Back
         </h1>
-        <div className="washi-tape-yellow left-2"></div>
+
       </header>
 
       {/* Main Map Area */}
